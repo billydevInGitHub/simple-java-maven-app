@@ -10,6 +10,9 @@ public class App
 
     public App() {}
 
+
+// a bit change from vs.code 
+
     public static void main(String[] args) {
         System.out.println(new App().getMessage());
     }
